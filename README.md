@@ -8,11 +8,11 @@ I am a highly skilled Research Data Scientist with extensive experience in data 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently wrapping up my PhD program at [University of Texas at San Antonio](https://www.utsa.edu) Spring 2025.
+- 💡 Fun fact: I'm forever a Roadrunner [University of Texas at San Antonio](https://www.utsa.edu) 
 - 🌱 I’m currently learning more programming skills and techniques
 - 😊 I’m looking for help with open source projects, hackathons, internships, and job opportunities.
 - 💼 Job interests: Research Scientist, Data Scientist, or Data Engineer.
-- 📫 You can [view my resume]("https://drive.google.com/file/d/1ICtY9WYFGAbo18vWI6pmOSqENJelXFXR/view?usp=sharing") and contact me by emailing jaiyejoseph2015@gmail.com.
+- 📫 You can [view my resume]("https://drive.google.com/file/d/1_ewaTXizJQ6FoZx5l3vOmqmDD1KiyAOI/view?usp=sharing") and contact me by emailing joseph.jaiyeola123@gmail.com.
 
 ---
 
